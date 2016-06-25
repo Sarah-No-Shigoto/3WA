@@ -7,3 +7,5 @@ https://sarah-no-shigoto.github.io/3WA/greenorange/html/
 https://sarah-no-shigoto.github.io/3WA/bluemaster/
 
 https://sarah-no-shigoto.github.io/3WA/wonder/
+
+https://sarah-no-shigoto.github.io/3WA/fresh-restaurant/
