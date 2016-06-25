@@ -1,0 +1,33 @@
+body {
+	width: 545px;
+	font-family: arial, sans-serif;
+	margin: auto;
+	
+}
+
+span {
+	text-transform: uppercase;
+}
+
+div {
+	margin-left: 20px; 
+}
+
+h2 {
+	font-size: 30px;
+}
+
+a {
+	text-decoration: none;
+}
+
+nav li {
+	display: inline-block;
+	height:10px;
+	color: white;
+	text-align: center;
+	vertical-align: auto;
+}
+
+
+

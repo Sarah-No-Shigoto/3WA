@@ -1,0 +1,31 @@
+h2 {
+	color: #F9BC02;
+}
+
+div {
+	color: #D4D4D4;
+}
+
+h6, .puce {
+	color: #72AA60;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+div a, p {
+	color: #B2B2B2;
+}
+
+nav li a {
+	color: white;
+	margin-top: 20px;
+}
+
+p a {
+	color:#F9BC02;
+	font-size: 20px; 
+}
+
+footer {
+	color:gray;
+}

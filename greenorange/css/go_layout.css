@@ -1,0 +1,25 @@
+header {
+	height: 275px;
+	background:url(../img/header_bg.png) no-repeat;
+}
+
+header img {
+	position:relative;
+	margin-top:71px;
+}
+
+nav {
+	position:relative;
+	border-bottom: 3px solid #7AAF69;
+	margin-top:85px;
+}
+
+section {
+	margin-top: 31px;
+}
+
+footer {
+	text-align: right; 
+	font-size: 10px;
+	clear: both;
+}
